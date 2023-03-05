@@ -9,7 +9,7 @@ Cualquier información enviada por el usuario será almacenada de forma local en
 
 Funcionalidades de usuario
 
-VentalYa es una app que permite realizar compra de productos perecederos (comida)
+VentaYa es una app que permite realizar compra de productos perecederos (comida)
 ver una lista de diferentes categorias de venta de productos ejemplo frutas y verduras.
 
 le permitira elegir un producto y ver diferentes caracteristicas del producto entre las mas importantes el valor y la cantidad
